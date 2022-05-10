@@ -1,0 +1,24 @@
+ניב פנקר
+תז: 341119501
+שנה א, הנדסת מחשבים
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	Neev Penkar <neev.penkar@gmail.com>
+Comment: Created:	11/03/2022 10:33
+Comment: Expires:	11/03/2023 12:00
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs, SSH Authentication
+Comment: Fingerprint:	4A7F740BE5E809395FBBA6CE3A1B80C200C15938
+
+
+mDMEYisJShYJKwYBBAHaRw8BAQdADqIe+GQMTQJt6/sOdpkQ8fb3w4kUp8tduF14
+jL5WnyW0I05lZXYgUGVua2FyIDxuZWV2LnBlbmthckBnbWFpbC5jb20+iJoEExYK
+AEIWIQRKf3QL5egJOV+7ps46G4DCAMFZOAUCYisJSgIbIwUJAeFH1gULCQgHAgMi
+AgEGFQoJCAsCBBYCAwECHgcCF4AACgkQOhuAwgDBWTgSiwD9Hosty8y1XRvEbx1w
+cGVVOpB9fQ9S7X02wjIjVB1b9dIBAJmy+HMi5sxT9FdttuP4kxpDQO+GlgGHYgSn
+8+gPVSsLuDgEYisJShIKKwYBBAGXVQEFAQEHQPoktoMTg/BgVqUU/Icp6ZHkCWw9
+R9xUJ3p/ll5Zk+czAwEIB4h+BBgWCgAmFiEESn90C+XoCTlfu6bOOhuAwgDBWTgF
+AmIrCUoCGwwFCQHhR9YACgkQOhuAwgDBWTgyLwD+MdBYuZNidbsZRVQxKiaq4UA4
+3oWeiwIcXhAW+ldM4asA/0IEPe/9SJzUVBV/2z5h50wNwIO9+AXjxQjj4X9vvmwM
+=vS6j
+-----END PGP PUBLIC KEY BLOCK-----
